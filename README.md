@@ -1,6 +1,6 @@
 # react-snow-particle
 
-> A simple and beautiful react loading animation. Using for page pre-loading, content loading or transition!
+> A beautiful react snow flake effects components
 
 [![NPM](https://img.shields.io/npm/v/react-snow-particle.svg)](https://www.npmjs.com/package/react-snow-particle) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -66,7 +66,7 @@ yarn remove react-snow-particle
 
 ## ChangeLog
 
-- 2020/06/27 version 1.0.5 publish
+- 2020/06/28 version 1.0.6 publish
 
 ## License
 
